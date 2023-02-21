@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "maxpiormod:item/chicken_nugget"
+  }
+}
